@@ -22,7 +22,10 @@ Test: Pictures are resized to 384x384, then they are normalized locally. Single 
 
 | network              | depth | total accuracy (%) |
 |:---------------------|-------|-------------------:|
-| my implementation    | 11    | soon               |
+| my implementation    | 11    | 92.1               |
+
+<img src="https://github.com/nutszebra/vgg/blob/master/loss.jpg" alt="loss" title="loss">
+<img src="https://github.com/nutszebra/vgg/blob/master/accuracy.jpg" alt="total accuracy" title="total accuracy">
 
 
 # References
